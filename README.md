@@ -3,7 +3,7 @@
 Personal developer portfolio showcasing my projects, skills, and contact details.
 
 ## Live Site
-[karishma-portfolio.vercel.app](https://karishma-portfolio.vercel.app)
+
 
 ## Built With
 - HTML5
